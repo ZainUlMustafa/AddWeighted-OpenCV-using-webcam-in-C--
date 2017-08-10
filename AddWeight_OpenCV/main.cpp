@@ -11,7 +11,8 @@
 Complete repository for this project is available on github. If you find this project anywhere except github, it
 is to be noted that it is not made by me and not distributed by me. 
 
-Please follow this link to get to the original repository of github for this project:
+Please follow this link to get to the original repository of github for this project
+Github shortened link (no spam and no ads): http://bit.ly/2vSEAfT
 */
 
 
